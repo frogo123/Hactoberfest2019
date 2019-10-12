@@ -9,6 +9,10 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
+### Eddie
+[Frogo123](https://github.com/frogo123/)
+>If its not working, you are.
+
 ### Jeff 
 [JeffHow](https://github.com/jeffhow/)
 > Simple doesn't always mean easy
